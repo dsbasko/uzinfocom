@@ -14,7 +14,8 @@
 карьерной лестницы.
 
 Описание уровней: 
-- [Backend Engineer Levels](./levels/backend-engineer.md)
+- [Software Engineer](./levels/software-engineer.md)
+- [Business Analyst](./levels/business-analyst.md)
 
 Описание процесса прохождения перформанс-ревью:
 - [Software Engineer](./performance-review/software-engineer.md) ([Примеры](./performance-review/software-engineer-example.md))
@@ -49,7 +50,6 @@
 Этот репозиторий будет регулярно пополняться открытой информацией по другим ролям в нашей команде, такими как:
 
 - **Дизайнеры**
-- **Аналитики**
 - **Тестировщики**
 - **Другие специалисты**
 
